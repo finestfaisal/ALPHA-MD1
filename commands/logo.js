@@ -799,4 +799,3 @@ keith({nomCom:"mechanical",categorie:"Modern-Logo",reaction:"🥵"},async(dest,z
     await zk.sendMessage(dest,{image:{url:img.image},caption:" *Powered by Alpha Md*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
-
